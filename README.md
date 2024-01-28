@@ -1,3 +1,4 @@
+<img alt="Coding" width="2000" src="https://media.licdn.com/dms/image/D5616AQF_JJTFy3LQHQ/profile-displaybackgroundimage-shrink_200_800/0/1690825935332?e=2147483647&v=beta&t=h6S8Ml1EdegqmnuDoB_JJY3BYPgWuC21D8-QEkjFiGY">
 <h1 align="center">Hi 👋, I'm Renu Deshmukh</h1>
 <h3 align="center">A passionate Data Analysts and SQL Developer </h3>
 
