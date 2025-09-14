@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in **Python Programming, DBMS, SQL, WEB Development, Data Analysis, Data Science.**
 
-- 🌱 I’m currently learning **Data visualization, Machine Learning.**
+- 🌱 I’m currently learning **Data visualization, Machine Learning,Artificial Intelligence ,LLM, AI Agent.**
 
 - 👯 I’m looking to collaborate on **data analytics projects.**
 
